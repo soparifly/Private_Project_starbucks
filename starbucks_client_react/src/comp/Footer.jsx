@@ -2,7 +2,11 @@
 import React from "react";
 
 const Footer = () => {
-  return <div></div>;
+  return (
+    <>
+      <address>CopyRight &copy; soparifly@naver.com</address>
+    </>
+  );
 };
 
 export default Footer;

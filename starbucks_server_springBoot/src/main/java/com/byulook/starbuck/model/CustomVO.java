@@ -3,7 +3,7 @@ package com.byulook.starbuck.model;
 import javax.persistence.*;
 
 @Entity
-public class Custom {
+public class CustomVO {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
